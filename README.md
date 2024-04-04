@@ -17,9 +17,4 @@ To run the application locally, follow these steps:
 5. Start the development server with `python manage.py runserver`.
 6. Access the application at `http://localhost:8000`.
 
-
-
-## Contact
-If you have any questions or feedback, feel free to reach out to us at somlinghajji@gmail.com.
-
 Happy hunting! 🏴‍☠️🗺️
